@@ -229,13 +229,10 @@ Log::info('Hotel search completed', [
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+##  Author
 
-## 👨‍💻 Author
-
-**Sr. Back-end Engineer** - Multi-Supplier Hotel Search API Implementation
+**Beshoy Sedkey** - Multi-Supplier Hotel Search API Implementation
 
 ---
 
